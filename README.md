@@ -6,6 +6,7 @@ I use GitHub to share my learning journey, projects, and beginner-friendly resou
 🚀 Current Projects
 
 crypto-articles- (https://github.com/calebcrypto/crypto-articles-)
+
 A curated beginner’s guide to cryptocurrency trading.
 • Explains crypto basics in plain language
 • Helps new traders pick platforms safely
